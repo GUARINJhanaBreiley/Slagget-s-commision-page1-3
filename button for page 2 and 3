@@ -7,6 +7,7 @@
     <link href="https://fonts.googleapis.com" rel="stylesheet">
   <head>
     <style>
+/* Style for the added button */
 .next-page-btn {
             display: inline-block;
             background-color: #008080;
