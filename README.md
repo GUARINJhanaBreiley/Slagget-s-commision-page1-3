@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Slagget Art Commissions</title>
+    <title>SlaggetDoesYourCommissions</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net">
     <link href="https://fonts.googleapis.com" rel="stylesheet">
     <style>
@@ -126,7 +126,7 @@
 
         <div style="text-align: center;">
     <a href="page2.html" class="next-page-btn doodle">COMISSION ARTWORKS</a>
-    <a href="https://guarinjhanabreiley.github.io/Slagget-s-commision-page1-3/" class="next-page-btn doodle" style="margin-left: 10px;">MY SOCIALS</a>
+    <a href="MYSOCIALS.html" class="next-page-btn doodle" style="margin-left: 10px;">MY SOCIALS</a>
 </div>
         
     </main>
