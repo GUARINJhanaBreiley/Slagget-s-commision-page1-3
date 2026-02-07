@@ -85,10 +85,12 @@
 <body>
 
     <main>
+        <!-- Header Section -->
         <div class="doodle-title">
             <h1>Welcome to my website!</h1>
         </div>
 
+        <!-- Introduction -->
          <div class="doodle header-box">
         <p>Hello, I'm slagget and I do art commissions based on what you like!</p>
         </div>
@@ -123,8 +125,8 @@
         </div>
 
         <div style="text-align: center;">
-    <a href="page2.html" class="next-page-btn doodle">Artworks</a>
-    <a href="page3.html" class="next-page-btn doodle" style="margin-left: 10px;">Social</a>
+    <a href="page2.html" class="next-page-btn doodle">COMISSION ARTWORKS</a>
+    <a href="page3.html" class="next-page-btn doodle" style="margin-left: 10px;">MY SOCIALS</a>
 </div>
         
     </main>
