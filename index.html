@@ -85,12 +85,10 @@
 <body>
 
     <main>
-        <!-- Header Section -->
         <div class="doodle-title">
             <h1>Welcome to my website!</h1>
         </div>
 
-        <!-- Introduction -->
          <div class="doodle header-box">
         <p>Hello, I'm slagget and I do art commissions based on what you like!</p>
         </div>
