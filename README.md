@@ -125,11 +125,12 @@
         </div>
 
         <div style="text-align: center;">
-    <a href="page2.html" class="next-page-btn doodle">COMISSION ARTWORKS</a>
-    <a href="MYSOCIALS.html" class="next-page-btn doodle" style="margin-left: 10px;">MY SOCIALS</a>
+    <a href="COMISSION ARTWORKS.html" class="next-page-btn">COMISSION ARTWORKS</a>
+    <a href="MYSOCIALS.html" class="next-page-btn" style="margin-left: 10px;">MY SOCIALS</a>
 </div>
         
     </main>
 
 </body>
+</html>
 </html>
